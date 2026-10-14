@@ -1,0 +1,11 @@
+news_id,headline,body_text,source,label
+1,Global economy faces recession,The Prime Minister attended the inauguration ceremony as the chief guest.,CNN,Real
+2,"Earthquake hits Chittagong, panic spreads",Government sources state that an official announcement will be made soon.,Daily Star,Real
+3,Breakthrough in Bangladesh's tech industry,Local administration has visited the spot for further inspection.,BBC,Fake
+4,Dengue situation worsens in the country,The Prime Minister attended the inauguration ceremony as the chief guest.,BBC,Fake
+5,New virus outbreak sparks fear,Government sources state that an official announcement will be made soon.,Reuters,Real
+10,New curriculum introduced in schools,Incidents were reported from various parts of the city this morning. Authorities are investigating.,CNN,Real
+14,Bangladeshi astronaut captures photo from the moon,Government sources state that an official announcement will be made soon.,Reuters,Real
+19,Bangladesh wins the World Cup,The news went viral on social media after noon.,Daily Star,Real
+25,Government announces major job reforms,Experts believe this is a significant technological advancement.,Unknown News,Real
+31,New metro rail launched in Dhaka,Local administration has visited the spot for further inspection.,CNN,Fake
