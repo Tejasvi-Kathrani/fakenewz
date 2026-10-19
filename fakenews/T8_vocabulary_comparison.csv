@@ -1,0 +1,5 @@
+Technique,Vocabulary Size,Vocabulary Reduction (%)
+Original Text,87,0.0
+Porter Stemming,85,2.2988505747126435
+NLTK Lemmatization,80,8.045977011494253
+spaCy Lemmatization,82,5.747126436781609

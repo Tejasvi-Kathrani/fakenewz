@@ -1,0 +1,151 @@
+label,noun_phrase,frequency
+Fake,a conspiracy,110
+Fake,a significant technological advancement,123
+Fake,an official announcement,108
+Fake,authorities,120
+Fake,bangladesh,111
+Fake,bangladesh's tech industry,86
+Fake,bangladesh's tech industry government sources,14
+Fake,bangladesh's tech industry incidents,8
+Fake,bangladesh's tech industry uncertainty,20
+Fake,bangladeshi astronaut,135
+Fake,basic precautions,117
+Fake,breakthrough,116
+Fake,chittagong,111
+Fake,danger,117
+Fake,dengue situation,111
+Fake,dhaka,20
+Fake,dhaka doctors,13
+Fake,dhaka experts,12
+Fake,dhaka government sources,7
+Fake,dhaka incidents,13
+Fake,dhaka local administration,10
+Fake,dhaka many,14
+Fake,dhaka residents,5
+Fake,dhaka uncertainty,16
+Fake,doctors,94
+Fake,earthquake,111
+Fake,experts,201
+Fake,further inspection,85
+Fake,global economy,107
+Fake,government,98
+Fake,government sources,33
+Fake,incidents,60
+Fake,it,220
+Fake,local administration,61
+Fake,major job reforms,98
+Fake,new curriculum,93
+Fake,new metro rail,110
+Fake,new virus outbreak,106
+Fake,noon,110
+Fake,panic,111
+Fake,photo,135
+Fake,recession,107
+Fake,residents,69
+Fake,schools,83
+Fake,schools incidents,10
+Fake,social media,110
+Fake,sources,15
+Fake,such an event,100
+Fake,the authenticity,129
+Fake,the chief guest,108
+Fake,the city,120
+Fake,the country,111
+Fake,the inauguration ceremony,108
+Fake,the incident,129
+Fake,the moon,67
+Fake,the moon government sources,18
+Fake,the moon incidents,10
+Fake,the moon local administration,8
+Fake,the moon residents,17
+Fake,the moon uncertainty,15
+Fake,the news,110
+Fake,the prime minister,108
+Fake,the spot,85
+Fake,the world cup,31
+Fake,the world cup doctors,10
+Fake,the world cup experts,8
+Fake,the world cup government,15
+Fake,the world cup incidents,19
+Fake,the world cup local administration,6
+Fake,the world cup residents,9
+Fake,the world cup uncertainty,13
+Fake,they,100
+Fake,this,123
+Fake,uncertainty,65
+Fake,various parts,120
+Real,a conspiracy,106
+Real,a significant technological advancement,109
+Real,an official announcement,88
+Real,authorities,102
+Real,bangladesh,141
+Real,bangladesh's tech industry,73
+Real,bangladesh's tech industry government sources,5
+Real,bangladesh's tech industry incidents,16
+Real,bangladesh's tech industry uncertainty,4
+Real,bangladeshi astronaut,89
+Real,basic precautions,111
+Real,breakthrough,83
+Real,chittagong,120
+Real,danger,111
+Real,dengue situation,113
+Real,dhaka,33
+Real,dhaka doctors,12
+Real,dhaka experts,8
+Real,dhaka government sources,12
+Real,dhaka incidents,5
+Real,dhaka local administration,13
+Real,dhaka many,15
+Real,dhaka residents,7
+Real,dhaka uncertainty,8
+Real,doctors,88
+Real,earthquake,120
+Real,experts,184
+Real,further inspection,122
+Real,global economy,111
+Real,government,96
+Real,government sources,28
+Real,incidents,50
+Real,it,212
+Real,local administration,76
+Real,major job reforms,96
+Real,new curriculum,112
+Real,new metro rail,113
+Real,new virus outbreak,109
+Real,noon,130
+Real,panic,120
+Real,photo,89
+Real,recession,111
+Real,residents,91
+Real,schools,101
+Real,schools incidents,11
+Real,social media,130
+Real,sources,13
+Real,such an event,121
+Real,the authenticity,101
+Real,the chief guest,112
+Real,the city,102
+Real,the country,113
+Real,the inauguration ceremony,112
+Real,the incident,101
+Real,the moon,49
+Real,the moon government sources,5
+Real,the moon incidents,4
+Real,the moon local administration,10
+Real,the moon residents,7
+Real,the moon uncertainty,14
+Real,the news,130
+Real,the prime minister,112
+Real,the spot,122
+Real,the world cup,34
+Real,the world cup doctors,11
+Real,the world cup experts,8
+Real,the world cup government,13
+Real,the world cup incidents,16
+Real,the world cup local administration,23
+Real,the world cup residents,16
+Real,the world cup uncertainty,20
+Real,they,121
+Real,this,109
+Real,uncertainty,55
+Real,various parts,102

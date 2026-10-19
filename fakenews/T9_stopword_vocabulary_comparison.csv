@@ -1,0 +1,6 @@
+Strategy,Vocabulary Size,Vocabulary Reduction (%)
+Original,82,0.0
+NLTK,60,26.82926829268293
+spaCy,51,37.80487804878049
+Combined,51,37.80487804878049
+Custom,51,37.80487804878049
