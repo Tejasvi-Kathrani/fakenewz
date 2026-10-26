@@ -1,0 +1,255 @@
+label,keyword,frequency,average_rake_score
+Fake,authenticity,129,1.0
+Fake,authorities,120,1.0
+Fake,bangladesh,128,1.0
+Fake,bangladesh wins,111,4.0
+Fake,bangladeshi astronaut captures photo,135,16.0
+Fake,basic precautions,117,4.0
+Fake,breakthrough,128,1.0
+Fake,calling,110,1.0
+Fake,chief guest,108,4.0
+Fake,city,120,1.0
+Fake,conspiracy,110,1.0
+Fake,country,19,1.0
+Fake,country doctors advise,5,9.0
+Fake,country experts believe,15,9.0
+Fake,country government sources state,14,16.0
+Fake,country incidents,13,4.0
+Fake,country local administration,8,9.0
+Fake,country many,10,4.0
+Fake,country residents claim,16,9.0
+Fake,country uncertainty remains,11,9.0
+Fake,dengue situation worsens,111,9.0
+Fake,dhaka,20,1.0
+Fake,dhaka doctors advise,13,9.0
+Fake,dhaka experts believe,12,9.0
+Fake,dhaka government sources state,7,16.0
+Fake,dhaka incidents,13,4.0
+Fake,dhaka local administration,10,9.0
+Fake,dhaka many,14,4.0
+Fake,dhaka residents claim,5,9.0
+Fake,dhaka uncertainty remains,16,9.0
+Fake,earthquake hits chittagong,111,9.0
+Fake,event,100,1.0
+Fake,experts say,110,4.0
+Fake,global economy faces recession,24,16.0
+Fake,global economy faces recession doctors advise,14,36.0
+Fake,global economy faces recession experts believe,10,36.0
+Fake,global economy faces recession government sources state,8,49.0
+Fake,global economy faces recession incidents,16,25.0
+Fake,global economy faces recession local administration,7,36.0
+Fake,global economy faces recession many,14,25.0
+Fake,global economy faces recession residents claim,4,36.0
+Fake,global economy faces recession uncertainty remains,10,36.0
+Fake,government announces major job reforms,21,25.0
+Fake,government announces major job reforms doctors advise,12,49.0
+Fake,government announces major job reforms experts believe,7,49.0
+Fake,government announces major job reforms government sources state,5,64.0
+Fake,government announces major job reforms incidents,13,36.0
+Fake,government announces major job reforms local administration,10,49.0
+Fake,government announces major job reforms many,8,36.0
+Fake,government announces major job reforms residents claim,7,49.0
+Fake,government announces major job reforms uncertainty remains,15,49.0
+Fake,help avoid danger,117,9.0
+Fake,however,110,1.0
+Fake,inauguration ceremony,108,4.0
+Fake,incident,129,1.0
+Fake,inspection,85,1.0
+Fake,investigating,120,1.0
+Fake,made soon,108,4.0
+Fake,moon,27,1.0
+Fake,moon doctors advise,14,9.0
+Fake,moon experts believe,18,9.0
+Fake,moon government sources state,18,16.0
+Fake,moon incidents,10,4.0
+Fake,moon local administration,8,9.0
+Fake,moon many,8,4.0
+Fake,moon residents claim,17,9.0
+Fake,moon uncertainty remains,15,9.0
+Fake,morning,120,1.0
+Fake,never witnessed,100,4.0
+Fake,new curriculum introduced,93,9.0
+Fake,new metro rail launched,110,16.0
+Fake,new virus outbreak sparks fear,21,25.0
+Fake,new virus outbreak sparks fear doctors advise,12,49.0
+Fake,new virus outbreak sparks fear experts believe,19,49.0
+Fake,new virus outbreak sparks fear government sources state,11,64.0
+Fake,new virus outbreak sparks fear incidents,11,36.0
+Fake,new virus outbreak sparks fear local administration,8,49.0
+Fake,new virus outbreak sparks fear many,6,36.0
+Fake,new virus outbreak sparks fear residents claim,11,49.0
+Fake,new virus outbreak sparks fear uncertainty remains,7,49.0
+Fake,news went viral,110,9.0
+Fake,noon,110,1.0
+Fake,official announcement,108,4.0
+Fake,panic spreads,22,4.0
+Fake,panic spreads doctors advise,15,16.0
+Fake,panic spreads experts believe,12,16.0
+Fake,panic spreads government sources state,11,25.0
+Fake,panic spreads incidents,7,9.0
+Fake,panic spreads local administration,9,16.0
+Fake,panic spreads many,12,9.0
+Fake,panic spreads residents claim,11,16.0
+Fake,panic spreads uncertainty remains,12,16.0
+Fake,prime minister attended,108,9.0
+Fake,quite natural,110,4.0
+Fake,reported,120,1.0
+Fake,schools,21,1.0
+Fake,schools doctors advise,7,9.0
+Fake,schools experts believe,10,9.0
+Fake,schools government sources state,5,16.0
+Fake,schools incidents,10,4.0
+Fake,schools local administration,6,9.0
+Fake,schools many,17,4.0
+Fake,schools residents claim,7,9.0
+Fake,schools uncertainty remains,10,9.0
+Fake,significant technological advancement,123,9.0
+Fake,social media,110,4.0
+Fake,spot,85,1.0
+Fake,tech industry,21,4.0
+Fake,tech industry doctors advise,15,16.0
+Fake,tech industry experts believe,12,16.0
+Fake,tech industry government sources state,14,25.0
+Fake,tech industry incidents,8,9.0
+Fake,tech industry local administration,13,16.0
+Fake,tech industry many,12,9.0
+Fake,tech industry residents claim,13,16.0
+Fake,tech industry uncertainty remains,20,16.0
+Fake,various parts,120,4.0
+Fake,visited,85,1.0
+Fake,world cup,22,4.0
+Fake,world cup doctors advise,10,16.0
+Fake,world cup experts believe,8,16.0
+Fake,world cup government sources state,15,25.0
+Fake,world cup incidents,19,9.0
+Fake,world cup local administration,6,16.0
+Fake,world cup many,9,9.0
+Fake,world cup residents claim,9,16.0
+Fake,world cup uncertainty remains,13,16.0
+Real,authenticity,101,1.0
+Real,authorities,102,1.0
+Real,bangladesh,98,1.0
+Real,bangladesh wins,141,4.0
+Real,bangladeshi astronaut captures photo,89,16.0
+Real,basic precautions,111,4.0
+Real,breakthrough,98,1.0
+Real,calling,106,1.0
+Real,chief guest,112,4.0
+Real,city,102,1.0
+Real,conspiracy,106,1.0
+Real,country,23,1.0
+Real,country doctors advise,14,9.0
+Real,country experts believe,9,9.0
+Real,country government sources state,10,16.0
+Real,country incidents,11,4.0
+Real,country local administration,13,9.0
+Real,country many,14,4.0
+Real,country residents claim,12,9.0
+Real,country uncertainty remains,7,9.0
+Real,dengue situation worsens,113,9.0
+Real,dhaka,33,1.0
+Real,dhaka doctors advise,12,9.0
+Real,dhaka experts believe,8,9.0
+Real,dhaka government sources state,12,16.0
+Real,dhaka incidents,5,4.0
+Real,dhaka local administration,13,9.0
+Real,dhaka many,15,4.0
+Real,dhaka residents claim,7,9.0
+Real,dhaka uncertainty remains,8,9.0
+Real,earthquake hits chittagong,120,9.0
+Real,event,121,1.0
+Real,experts say,106,4.0
+Real,global economy faces recession,22,16.0
+Real,global economy faces recession doctors advise,13,36.0
+Real,global economy faces recession experts believe,13,36.0
+Real,global economy faces recession government sources state,8,49.0
+Real,global economy faces recession incidents,6,25.0
+Real,global economy faces recession local administration,10,36.0
+Real,global economy faces recession many,13,25.0
+Real,global economy faces recession residents claim,15,36.0
+Real,global economy faces recession uncertainty remains,11,36.0
+Real,government announces major job reforms,19,25.0
+Real,government announces major job reforms doctors advise,9,49.0
+Real,government announces major job reforms experts believe,12,49.0
+Real,government announces major job reforms government sources state,7,64.0
+Real,government announces major job reforms incidents,8,36.0
+Real,government announces major job reforms local administration,9,49.0
+Real,government announces major job reforms many,11,36.0
+Real,government announces major job reforms residents claim,12,49.0
+Real,government announces major job reforms uncertainty remains,9,49.0
+Real,help avoid danger,111,9.0
+Real,however,106,1.0
+Real,inauguration ceremony,112,4.0
+Real,incident,101,1.0
+Real,inspection,122,1.0
+Real,investigating,102,1.0
+Real,made soon,88,4.0
+Real,moon,19,1.0
+Real,moon doctors advise,13,9.0
+Real,moon experts believe,6,9.0
+Real,moon government sources state,5,16.0
+Real,moon incidents,4,4.0
+Real,moon local administration,10,9.0
+Real,moon many,11,4.0
+Real,moon residents claim,7,9.0
+Real,moon uncertainty remains,14,9.0
+Real,morning,102,1.0
+Real,never witnessed,121,4.0
+Real,new curriculum introduced,112,9.0
+Real,new metro rail launched,113,16.0
+Real,new virus outbreak sparks fear,22,25.0
+Real,new virus outbreak sparks fear doctors advise,9,49.0
+Real,new virus outbreak sparks fear experts believe,14,49.0
+Real,new virus outbreak sparks fear government sources state,10,64.0
+Real,new virus outbreak sparks fear incidents,12,36.0
+Real,new virus outbreak sparks fear local administration,14,49.0
+Real,new virus outbreak sparks fear many,8,36.0
+Real,new virus outbreak sparks fear residents claim,11,49.0
+Real,new virus outbreak sparks fear uncertainty remains,9,49.0
+Real,news went viral,130,9.0
+Real,noon,130,1.0
+Real,official announcement,88,4.0
+Real,panic spreads,35,4.0
+Real,panic spreads doctors advise,8,16.0
+Real,panic spreads experts believe,10,16.0
+Real,panic spreads government sources state,10,25.0
+Real,panic spreads incidents,13,9.0
+Real,panic spreads local administration,11,16.0
+Real,panic spreads many,10,9.0
+Real,panic spreads residents claim,14,16.0
+Real,panic spreads uncertainty remains,9,16.0
+Real,prime minister attended,112,9.0
+Real,quite natural,106,4.0
+Real,reported,102,1.0
+Real,schools,19,1.0
+Real,schools doctors advise,15,9.0
+Real,schools experts believe,14,9.0
+Real,schools government sources state,8,16.0
+Real,schools incidents,11,4.0
+Real,schools local administration,9,9.0
+Real,schools many,9,4.0
+Real,schools residents claim,17,9.0
+Real,schools uncertainty remains,10,9.0
+Real,significant technological advancement,109,9.0
+Real,social media,130,4.0
+Real,spot,122,1.0
+Real,tech industry,26,4.0
+Real,tech industry doctors advise,7,16.0
+Real,tech industry experts believe,15,16.0
+Real,tech industry government sources state,5,25.0
+Real,tech industry incidents,16,9.0
+Real,tech industry local administration,10,16.0
+Real,tech industry many,5,9.0
+Real,tech industry residents claim,10,16.0
+Real,tech industry uncertainty remains,4,16.0
+Real,various parts,102,4.0
+Real,visited,122,1.0
+Real,world cup,24,4.0
+Real,world cup doctors advise,11,16.0
+Real,world cup experts believe,8,16.0
+Real,world cup government sources state,13,25.0
+Real,world cup incidents,16,9.0
+Real,world cup local administration,23,16.0
+Real,world cup many,10,9.0
+Real,world cup residents claim,16,16.0
+Real,world cup uncertainty remains,20,16.0
