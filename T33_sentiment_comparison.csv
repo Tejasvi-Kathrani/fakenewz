@@ -1,0 +1,3 @@
+label,headline_pos,headline_neg,headline_neu,body_pos,body_neg,body_neu,headline_compound,body_compound
+Fake,0.071,0.172,0.757,0.06,0.092,0.849,-0.117,-0.079
+Real,0.085,0.181,0.734,0.056,0.083,0.861,-0.109,-0.07
