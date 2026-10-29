@@ -1,0 +1,3 @@
+label,average_sentiment_intensity,average_positive_score,average_negative_score,average_neutral_score,average_emotional_word_rate,average_opinion_word_rate,average_exclamations,average_capital_words
+Fake,0.32,0.067,0.129,0.804,0.0,0.0,0.0,0.0
+Real,0.333,0.071,0.127,0.802,0.0,0.0,0.0,0.0

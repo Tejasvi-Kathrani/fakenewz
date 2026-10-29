@@ -1,0 +1,3 @@
+label,average_word_count,average_sentence_count,average_sentence_length,average_lexical_diversity,average_question_marks,average_exclamation_marks
+Fake,15.65,1.207,13.697,0.963,0.0,0.0
+Real,15.485,1.189,13.705,0.964,0.0,0.0
